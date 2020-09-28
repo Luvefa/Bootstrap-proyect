@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	background-color: #BABABA	;
+}
+
+div.post{
+	background-color: white;
+	width: 500px;
+	height: auto;
+}
+div.post img{
+	width: 500px;
+	margin-top: 20px;
+    
+}
+div.post-header {
+	display: inline-block;
+	margin-top: 10px;
+
+	width: 80%;
+}
+
+div.date{
+	display: inline-block;
+	width: 19.1%;
+	text-align: right;
+	padding: 10px;
+	color: grey;
+}
+
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.box{
+	width: 503px;
+	margin: auto;
+	border:  2px solid black; 
+}
+
+
